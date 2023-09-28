@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **C# and Unity**
 
-- 🌱 I’m currently learning **C#, Unity, Level and Environment Design.**
+- 🌱 I’m currently learning **C#, Unity,Game, Level and Environment Design.**
 
 - 📫 How to reach me **frukan4@gmail.com**
 
